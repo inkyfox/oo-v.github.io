@@ -10,7 +10,7 @@ tagline:             'The App Developers'
 description:         'Develop as a Hobby'
 url:                 http://www.oo-v.com
 baseurl:             ''
-paginate:            1
+paginate:            2
 
 # About/contact
 #author:
