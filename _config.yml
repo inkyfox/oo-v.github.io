@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Gen X Hippies Company
+tagline:             'The App Developers'
+description:         'Develop as a Hobby'
+url:                 http://www.oo-v.com
+baseurl:             ''
+paginate:            1
+
+# About/contact
+#author:
+#  name:              Mark Otto
+#  url:               https://twitter.com/mdo
+#  email:             markdotto@gmail.com
+
+# Custom vars
+#version:             1.0.0
